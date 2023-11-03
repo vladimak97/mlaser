@@ -1,2 +1,2 @@
-# mlaser
+# Laser Phones
 SPOJ Laser Phones
